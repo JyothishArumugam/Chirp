@@ -1,7 +1,7 @@
 1. Tweets
     Creating
         Text
-        Image
+        Image--> media storage  server// primary as folder, then any other filestorage options like s3
     Delete
     Retweet
 
