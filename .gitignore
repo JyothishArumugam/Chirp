@@ -1,0 +1,10 @@
+#Ignore the .sqlite3 files
+
+*.sqlite3
+
+
+#Ignore the pycache files
+/__pycache__
+
+#IGnore te IDE specific files
+.vscode/
